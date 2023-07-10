@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: rc.lua
+## Author: chncdcksn
+## Version: 1.0.0
+## Notes: Aliases /rc to /readycheck
+
+rc.lua
